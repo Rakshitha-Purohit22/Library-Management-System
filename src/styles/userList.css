@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+}
+.user_section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.user_card{
+    width: 250px;
+    margin: 5px 20px;
+    background-color: rgb(241, 231, 219);
+}
+.user_card h1{
+    background-color: rgb(193, 193, 239);
+    margin-top: 0px;
+}

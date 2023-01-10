@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+}
+.form input{
+    padding: 10px;
+    padding-right: 800px;
+    border: 2px solid rgb(28, 25, 25);
+    margin: 5px 0px;
+}
+.addbtn{
+    padding: 10px;
+}

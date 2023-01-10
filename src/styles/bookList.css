@@ -1,0 +1,25 @@
+body{
+    background-color: gray;
+}
+.books_section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 20px 0px;
+}
+.books_card{
+    width: 800px;
+    margin: 10px 20px;
+    background-color: rgb(241, 231, 219);
+}
+.top{
+    display: flex;
+    margin: 30px 0px;
+    
+}
+.ima{
+    margin: 40px;
+}
+.info{
+    margin-left: 40px;
+}

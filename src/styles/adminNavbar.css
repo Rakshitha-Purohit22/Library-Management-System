@@ -1,0 +1,16 @@
+body{
+    margin: none;
+}
+.all{
+    display: flex;
+    padding: 20px 50px;
+    background-color: rgb(204, 195, 195);
+    justify-content: space-between;
+}
+.link a{
+    margin: 0px 20px;
+    color: black;
+}
+.link a:hover{
+    color: blue;
+}

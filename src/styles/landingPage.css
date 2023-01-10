@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    background-color: lightgrey;
+     background: linear-gradient(rgba(73, 67, 67, 0.732),rgba(168, 148, 148, 0.753)),url("https://www.shutterstock.com/image-illustration/shelves-colorful-books-on-brick-260nw-662415049.jpg");
+    background-size: cover;
+    height: 300vh;
+    background-repeat: no-repeat;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+}
+.selectLoginType{
+    background-color: white;
+    margin: 130px auto;
+    width: 600px;
+    padding: 30px;
+}
+
+.admin button{
+    padding: 8px 20px;
+    border-radius: 3px;
+    border: 1px solid rgb(190, 11, 11);
+    background-color: rgb(185, 22, 22);
+  }
+.user button{
+    padding: 8px 20px;
+    border-radius: 3px;
+    border: 1px solid rgb(72, 72, 211);
+    background-color: rgb(9, 149, 214);
+}
+.selectLoginType button a{
+    color: white;
+}

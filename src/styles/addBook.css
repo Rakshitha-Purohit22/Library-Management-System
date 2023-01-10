@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+}
+input{
+    padding: 10px;
+    padding-right: 800px;
+    border: 2px solid rgb(43, 39, 39);
+    margin: 5px 0px;
+}
+.add{
+    padding: 10px;
+}
+.shortDescription textarea{
+    border:  2px solid rgb(28, 25, 25);
+}
+.longDescription textarea{
+    border:  2px solid rgb(28, 25, 25);
+}
